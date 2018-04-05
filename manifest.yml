@@ -1,6 +1,6 @@
 ---
 applications:
-- name: stl6
+- name: "stl6"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
